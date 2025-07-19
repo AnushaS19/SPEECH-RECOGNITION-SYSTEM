@@ -24,3 +24,6 @@ The application also includes basic error handling. It catches two specific exce
 This project can serve as a foundation for more advanced voice-based systems such as virtual assistants, hands-free interfaces, or smart voice-controlled environments. It can also be particularly useful for visually impaired users who benefit from voice-based interaction. Developers can build upon this by adding features like command recognition (e.g., "open browser"), speech logging, multi-language support, or even natural language understanding for more complex tasks.
 
 In summary, this project is a practical introduction to real-time speech interaction using Python. It teaches how to capture audio, process it with a speech recognition engine, and provide feedback using text-to-speech. With minimal setup and dependencies, it provides a solid foundation for anyone interested in building voice-enabled applications and exploring the fields of speech processing and human-computer interaction.
+
+output:
+<img width="1281" height="343" alt="Image" src="https://github.com/user-attachments/assets/ef90a3db-ebe3-4719-a362-08d0f99e8d96" />
